@@ -1,6 +1,6 @@
 import type { NextPage } from 'next';
 import Head from 'next/head';
-import Image from 'next/image';
+import Image from "next/legacy/image";
 'password= 0kqhQVA77eLefXWl'
 
 import { createClient } from '@supabase/supabase-js'
